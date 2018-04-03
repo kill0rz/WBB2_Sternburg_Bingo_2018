@@ -38,7 +38,7 @@ INSERT INTO `bb1_sternburg_bingo_2018_fields` (`ID`, `field_nr`, `number`, `pos_
 (22,	1,	86,	2,	5),
 (23,	1,	16,	3,	5),
 (24,	1,	52,	4,	5),
-(25,	1,	87,	5,	5), -- erstes Feld done
+(25,	1,	87,	5,	5), -- erstes Feld done+
 (27,	2,	80,	1,	1),
 (28,	2,	32,	2,	1),
 (29,	2,	18,	3,	1),

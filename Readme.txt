@@ -3,7 +3,7 @@ Sternburg Bingo 2018 v1 by kill0rz (C) 2018 - visit kill0rz.com
 Copyright
 #########
 
-Dieser Hack wurde unter "kill0rz' Unilecence v1.0 vom 08.08.2014" veröfentlicht. Diese liegt bei.
+Dieser Hack wurde unter "kill0rz' Unilicence v1.0 vom 08.08.2014" veröfentlicht. Diese liegt bei.
 
 Falls dieser Hack von jemanden an eine neuere Version des Bingos angepasst werden möchte, so bedarf dies der Zustimmung von mir.
 
