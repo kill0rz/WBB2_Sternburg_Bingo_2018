@@ -74,7 +74,7 @@
 					<tr align="left">
 						<td colspan="2" class="tablea" align="center">
 							<span class="smallfont">
-								Bitte wähle ein Spiel: $field_links <br /><br />
+								Bitte w&auml;hle ein Spiel: $field_links <br /><br />
 								Mein Spielfeld <b>$my_field_public_is</b> freigeben.<br />
 								<a href="sternburg_bingo_2018.php?toggle_freigabe=1">&auml;ndern</a>
 							</span>
@@ -134,7 +134,7 @@
 					<tr>
 						<td align="left" colspan="4" nowrap="nowrap" class="tabletitle">
 							<span class="normalfont">
-								<b>Nummer hinzufügen</b>
+								<b>Nummer hinzuf&uuml;gen</b>
 							</span>
 						</td>
 					</tr>
