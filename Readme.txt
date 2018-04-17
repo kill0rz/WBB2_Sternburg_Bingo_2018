@@ -15,7 +15,7 @@ Dieser Hack ist eine Implementierung des Sternburg Bingos 2018 in das WBB2.3.6pl
 Changelog
 #########
 
-v1.0 (02.04.2018)
+v1.0 (17.04.2018)
 ----
 init
 
@@ -43,4 +43,4 @@ Nun können du und alle User in den erlaubten Gruppen das Script benutzen!
 Viel Spaß bei der Verwendung,
 kill0rz
 http://kill0rz.com/
-Stand: 02.04.2018
+Stand: 17.04.2018
